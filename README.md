@@ -1,0 +1,2 @@
+# Image-Alignment-and-Color-Compositing
+The goal of this assignment is to take the digitized Prokudin-Gorskii glass plate images and, using image processing techniques, automatically produce a color image with as few visual artifacts as possible. In order to do this, I extracted the three color channel images, placed them on top of each other, and aligned them so that they form a single RGB color image
